@@ -1,0 +1,5 @@
+MAKE_FLAGS=-j3
+GECKO_OBJDIR=/home/android/firefoxos/B2G/objdir-gecko
+DEVICE_NAME=emulator
+DEVICE=generic
+LUNCH=full-eng
